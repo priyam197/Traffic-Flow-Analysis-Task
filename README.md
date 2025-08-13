@@ -109,7 +109,7 @@ After execution, you will have:
 ```
 
   Example Console Output:
-** === Final Vehicle Counts === **
+**=== Final Vehicle Counts ===**
  ```
 Lane 1: 167
 Lane 2: 234
