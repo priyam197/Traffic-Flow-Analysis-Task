@@ -3,7 +3,7 @@
 ## 1. Requirements
 - **Python**: Version 3.8 or later
 
-- **Operating System**: Windows (Linux/Mac supported but paths may differ)
+- **Operating System**: Windows 
 
 - **Internet Connection**: Required for:
 
@@ -109,6 +109,7 @@ After execution, you will have:
 ```
 
   Example Console Output:
+  
 **=== Final Vehicle Counts ===**
  ```
 Lane 1: 167
