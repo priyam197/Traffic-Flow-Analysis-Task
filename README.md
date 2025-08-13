@@ -153,3 +153,5 @@ COCO IDs:
     - Clear lane markings
 
 - Current version uses vertical lane lines — for curves, polygon-based lane detection should be implemented.
+
+ ### [Watch the demo video](https://drive.google.com/file/d/1ryHPQT_JoMkRnYjQTCDIveeKb2Yo3A3F/view?usp=sharing) 
