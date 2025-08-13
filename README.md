@@ -1,15 +1,15 @@
 # Traffic-Flow-Analysis-Task
 
 1. Requirements
--Python: Version 3.8 or later
+- **Python**: Version 3.8 or later
 
--Operating System: Windows (Linux/Mac supported but paths may differ)
+- **Operating System**: Windows (Linux/Mac supported but paths may differ)
 
--Internet Connection: Required for:
+- **Internet Connection**: Required for:
 
--Downloading YouTube traffic video
+    - Downloading YouTube traffic video
 
--Downloading YOLO model weights
+    - Downloading YOLO model weights
 
 Hardware:
 
